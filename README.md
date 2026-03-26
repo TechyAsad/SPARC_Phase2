@@ -1,76 +1,189 @@
-# SPARC_Phase2
+# SPARC Nanofabrication Program — Phase 2 & Phase 3
 
-# SPARC Nanofabrication Program — Phase-2 Project
+Indo-Taiwan/US Collaborative Program | IIT Hyderabad & NTHU Taiwan
 
-Indo-Taiwan/US Collaborative Program | IIT Hyderabad
+---
 
 ## Overview
 
-This repository contains the work completed during Phase-2 of the SPARC Nanofabrication Program at IIT Hyderabad. The program focused on hands-on training in semiconductor cleanroom fabrication techniques followed by device-oriented research modules.
+This repository documents the work completed during **Phase 2** and **Phase 3** of the SPARC Nanofabrication Program. The program combined **hands-on cleanroom fabrication training**, **device-oriented research**, and an **advanced international research exposure** at National Tsing Hua University (NTHU), Taiwan.
 
-The project involved the synthesis, fabrication, and characterization of two-dimensional (2D) nanomaterials and their application in gas sensing devices.
+The work spans **2D nanomaterial synthesis**, **gas sensor fabrication**, and **advanced semiconductor device fabrication & characterization**, providing a comprehensive understanding of modern nanotechnology and semiconductor engineering.
 
-## Cleanroom Training
+---
 
-The first half of the program provided practical training in micro/nanofabrication processes, covering the full workflow from substrate preparation to pattern transfer.
+## Phase 2 — IIT Hyderabad
 
-Techniques Learned
+### Cleanroom Training
 
-Wafer cleaning procedures
+The first phase provided practical exposure to micro/nanofabrication processes, covering the complete pipeline from substrate preparation to device realization.
 
-Photolithography
+#### Techniques Learned
 
-Thin film deposition (Sputtering)
+- Wafer cleaning procedures  
+- Photolithography  
+- Thin film deposition (Sputtering)  
+- Chemical Vapor Deposition (CVD)  
+- Etching processes  
+- Device fabrication fundamentals  
+- Cleanroom safety and protocols  
 
-Chemical Vapor Deposition (CVD)
-
-Etching processes
-
-Device fabrication fundamentals
-
-Cleanroom safety and protocols
+---
 
 ## Research Modules
-## Module 1 — MoS₂ Nanomaterial Synthesis & Characterization
 
-### Objective:
-To synthesize and study the growth characteristics of molybdenum disulfide (MoS₂) nanomaterials.
+### Module 1 — MoS₂ Nanomaterial Synthesis & Characterization
 
-Fabrication Workflow
+#### Objective  
+To synthesize and analyze the growth characteristics of molybdenum disulfide (MoS₂) nanomaterials.
 
-Substrate preparation
+#### Fabrication Workflow
 
-Lithographic patterning
+- Substrate preparation  
+- Lithographic patterning  
+- Metal deposition via sputtering  
+- Growth using Chemical Vapor Deposition (CVD)  
 
-Metal deposition via sputtering
+#### Characterization
 
-Growth using Chemical Vapor Deposition (CVD)
+- Raman Spectroscopy for structural verification  
+- Analysis of layer thickness and crystallinity  
+- Evaluation of growth uniformity  
 
-### Characterization
+---
 
-Raman Spectroscopy for structural verification
+### Module 2 — SnS₂ Chemiresistive Gas Sensor
 
-Analysis of layer thickness and crystallinity
+#### Objective  
+To design, fabricate, and evaluate a chemiresistive gas sensor using tin disulfide (SnS₂).
 
-Evaluation of growth uniformity
+#### Device Fabrication
 
-## Module 2 — SnS₂ Chemiresistive Gas Sensor
+- Electrode patterning using photolithography  
+- SnS₂ deposition via drop-casting  
+- Contact formation and device preparation  
 
-## Objective:
-To design, fabricate, and test a chemiresistive gas sensor based on tin disulfide (SnS₂).
+#### Testing & Characterization
 
-### Device Fabrication
+- Electrical measurements using a 4-probe station  
+- Gas response analysis  
+- Resistance variation under exposure conditions  
 
-Electrode patterning using photolithography
+---
 
-SnS₂ material deposition via drop-casting
+## Phase 3 — International Research Visit (NTHU, Taiwan)
 
-Contact formation and device preparation
+As part of a **select cohort of 25 students**, participated in an advanced semiconductor manufacturing and research program at:
 
-### Testing & Characterization
+**National Tsing Hua University (NTHU), Hsinchu, Taiwan**
 
-Electrical measurements using a 4-probe station
+This phase provided **end-to-end exposure to semiconductor fabrication and device characterization**, covering the complete cycle from **wafer processing to electrical and mechanical evaluation of devices**.
 
-Gas response analysis
+---
 
-Resistance variation under exposure conditions
+### Key Highlights
+
+#### 1. End-to-End Semiconductor Fabrication
+
+- Complete cleanroom workflow from **bare silicon wafer → fabricated device → characterization**
+- Processes covered:
+  - Wafer cleaning (RCA, wet bench processing)
+  - Photolithography (spin coating, UV exposure, development)
+  - Thin film deposition (PVD, e-beam evaporation)
+  - Etching (dry plasma & wet etching)
+  - Rapid Thermal Processing (dopant activation & annealing)
+
+- Understanding of **process integration and thermal budgets** in semiconductor manufacturing  
+
+---
+
+#### 2. Device Characterization (Electrical)
+
+Hands-on characterization of multiple semiconductor devices using industry-grade parameter analyzers:
+
+- **MOSFET Characterization**
+  - ID–VD (output characteristics)
+  - ID–VG (transfer characteristics)
+  - Extraction of:
+    - Threshold voltage (VT)
+    - Transconductance (gm)
+    - On/Off ratio
+    - Subthreshold swing  
+
+- **BJT Characterization**
+  - IC–VCE and IC–VBE analysis  
+  - Extraction of current gain (β)
+
+- **HEMT Observation**
+  - Understanding high-mobility 2DEG channels in heterostructures  
+
+---
+
+#### 3. MEMS Fabrication (Silicon Cantilever)
+
+Fabrication of a **MEMS cantilever** using surface micromachining:
+
+- Si₃N₄ thin film deposition (PVD)  
+- Photolithographic patterning  
+- Anisotropic dry etching (nitride patterning)  
+- Isotropic silicon etching (device release)  
+- Photoresist stripping  
+
+**Key Insight:**  
+The **isotropic silicon undercut** step is critical for transforming a patterned structure into a **mechanically active suspended device**.
+
+---
+
+#### 4. MEMS Characterization
+
+Exposure to advanced **non-contact and dynamic characterization techniques**:
+
+- **RF Characterization (VNA + Probe)**
+  - Extraction of resonant frequency and Q-factor  
+
+- **White Light Interferometry (WLI)**
+  - Nanometer-scale surface height measurement  
+
+- **Laser Doppler Vibrometry (LDV)**
+  - Measurement of vibration modes and dynamic response  
+
+- **Confocal Microscopy**
+  - 3D surface profiling and defect inspection  
+
+- **Digital Holographic Microscopy (DHM)**
+  - Real-time full-field 3D phase imaging  
+  - Dynamic deformation analysis  
+
+**Key Learning:**  
+No single technique is sufficient — **multi-instrument characterization is essential** to fully evaluate MEMS device performance.
+
+---
+
+### Phase 3 Outcome
+
+- Gained **industry-level exposure** to semiconductor fabrication and metrology  
+- Understood **device physics through real measurement data**  
+- Learned **process-device-performance relationships**  
+- Experienced **advanced MEMS fabrication and characterization workflows**  
+- Built a strong foundation for **VLSI, MEMS, and hardware research domains**
+
+---
+
+## Summary
+
+The SPARC program provided a **holistic and multi-disciplinary exposure** to:
+
+- Cleanroom fabrication workflows  
+- 2D nanomaterial synthesis  
+- Sensor design and testing  
+- Semiconductor device physics & characterization  
+- MEMS fabrication and metrology  
+- International research collaboration  
+
+---
+
+## Acknowledgment
+
+Grateful for the opportunity to be part of this prestigious program and for the guidance and support received from mentors and institutions across IIT Hyderabad and NTHU Taiwan.
+
+---
